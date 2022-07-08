@@ -1,0 +1,77 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "タイプワン",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "FieldIntent",
+          "slots": [],
+          "samples": [
+            "準備オッケー",
+            "いいよ"
+          ]
+        },
+        {
+          "name": "YesIntent",
+          "slots": [],
+          "samples": [
+            "はい"
+          ]
+        },
+        {
+          "name": "YestwoIntent",
+          "slots": [],
+          "samples": [
+            "イエス"
+          ]
+        },
+        {
+          "name": "YesthreeIntent",
+          "slots": [],
+          "samples": [
+            "野菜が好き"
+          ]
+        },
+        {
+          "name": "NoIntent",
+          "slots": [],
+          "samples": [
+            "いいえ"
+          ]
+        },
+        {
+          "name": "NotwoIntent",
+          "slots": [],
+          "samples": [
+            "ノー"
+          ]
+        },
+        {
+          "name": "NothreeIntent",
+          "slots": [],
+          "samples": [
+            "肉が好き"
+          ]
+        }
+      ],
+      "types": []
+    }
+  },
+  "version": "5"
+}
